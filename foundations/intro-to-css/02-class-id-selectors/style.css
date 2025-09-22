@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.first, .third
+ {
+    font-family: Verdana, DejaVu Sans, sans-serif; 
+    background-color: rgb(212, 84, 84);
+}
+
+.third {
+    font-size: 24px;
+}
+
+#second {
+    font-size: 36px;
+    color: rgb(38, 0, 255);
+}
+
+#fourth {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(116, 255, 134);
+}
